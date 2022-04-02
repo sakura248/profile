@@ -1,4 +1,4 @@
-### Hi there! I'm Sakura 🌸
+## Hi there! I'm Sakura 🌸
 
 I'm a front-end Developer who has background of improving UI/UX and project management.
 
